@@ -1,7 +1,9 @@
 # ISTE_Task2
 
-## Pokemon Classification
+---------------------
 
+## Pokemon Classification
+-------------------
 <p align="center">
 
 
@@ -9,6 +11,7 @@
 
 </p>
 
-* Dataset link: https://www.kaggle.com/thedagger/pokemon-generation-one
+#### * Dataset link: https://www.kaggle.com/thedagger/pokemon-generation-one
+
 * We use the model to classify 149 type of pokemons
 * Here we have used a CNN for classification
