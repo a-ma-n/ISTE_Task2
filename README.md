@@ -11,6 +11,7 @@
 
 </p>
 
+#### * Website Link:https://poke-class.azurewebsites.net
 #### * Dataset link: https://www.kaggle.com/thedagger/pokemon-generation-one
 
 * We use the model to classify 149 type of pokemons
