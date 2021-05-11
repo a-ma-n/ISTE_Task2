@@ -1,8 +1,4 @@
-# ISTE_Task2
-
----------------------
-
-## Pokemon Classification
+# Pokemon Classifer
 -------------------
 <p align="center">
 
